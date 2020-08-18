@@ -1,0 +1,10 @@
+.card {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 0.8rem;
+  text-align: justify;
+  img {
+    max-width: 15rem;
+    padding-right: 0.5rem;
+  }
+}
